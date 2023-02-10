@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --frowm=guillaume betty hello
